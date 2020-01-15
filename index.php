@@ -1,9 +1,9 @@
 <?php
-/*
+/**
  * Nick Gadomskiy
- * 1/13/20
- * http://ngadomskiy.greenriverdev.com/IT328/cupcakes/
- * cupcake fundraiser
+ * 1/15/20
+ * http://ngadomskiy.greenriverdev.com/IT328/chicken/
+ * chicken
  */
 
 // turn on error reporting
